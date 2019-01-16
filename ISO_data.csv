@@ -312,7 +312,7 @@ nia,Nias
 nic,Niger-Kordofanian languages
 niu,Niuean
 nno,"Norwegian Nynorsk; Nynorsk, Norwegian"
-nob,"Bokm√•l, Norwegian; Norwegian Bokm√•l"
+nob,"Bokm√É¬•l, Norwegian; Norwegian Bokm√É¬•l"
 nog,Nogai
 non,"Norse, Old"
 nor,Norwegian
@@ -325,7 +325,7 @@ nym,Nyamwezi
 nyn,Nyankole
 nyo,Nyoro
 nzi,Nzima
-oci,Occitan (post 1500); Proven√ßal
+oci,Occitan (post 1500); Proven√É¬ßal
 oji,Ojibwa
 ori,Oriya
 orm,Oromo
@@ -349,7 +349,7 @@ pol,Polish
 pon,Pohnpeian
 por,Portuguese
 pra,Prakrit languages
-pro,"Proven√ßal, Old (to 1500)"
+pro,"Proven√É¬ßal, Old (to 1500)"
 pus,Pushto; Pashto
 qaa-qtz,Reserved for local use
 que,Quechua
@@ -459,7 +459,7 @@ uzb,Uzbek
 vai,Vai
 ven,Venda
 vie,Vietnamese
-vol,Volap√ºk
+vol,Volap√É¬ºk
 vot,Votic
 wak,Wakashan languages
 wal,Walamo
@@ -623,10 +623,10 @@ nd,"Ndebele, North; North Ndebele"
 ng,Ndonga
 ne,Nepali
 nn,"Norwegian Nynorsk; Nynorsk, Norwegian"
-nb,"Bokm√•l, Norwegian; Norwegian Bokm√•l"
+nb,"Bokm√É¬•l, Norwegian; Norwegian Bokm√É¬•l"
 no,Norwegian
 ny,Chichewa; Chewa; Nyanja
-oc,Occitan (post 1500); Proven√ßal
+oc,Occitan (post 1500); Proven√É¬ßal
 oj,Ojibwa
 or,Oriya
 om,Oromo
@@ -681,7 +681,7 @@ ur,Urdu
 uz,Uzbek
 ve,Venda
 vi,Vietnamese
-vo,Volap√ºk
+vo,Volap√É¬ºk
 cy,Welsh
 wa,Walloon
 wo,Wolof
@@ -694,7 +694,7 @@ aaa,Ghotuo
 aab,Alumu-Tesu
 aac,Ari
 aad,Amal
-aae,ArbÎreshÎ Albanian
+aae,Arb√´resh√´ Albanian
 aaf,Aranadan
 aag,Ambrak
 aah,Abu' Arapesh
@@ -702,18 +702,18 @@ aai,Arifama-Miniafia
 aak,Ankave
 aal,Afade
 aam,Aramanik
-aan,AnambÈ
+aan,Anamb√©
 aao,Algerian Saharan Arabic
-aap,Par· Ar·ra
+aap,Par√° Ar√°ra
 aaq,Eastern Abnaki
 aar,Afar
-aas,Aas·x
+aas,Aas√°x
 aat,Arvanitika Albanian
 aau,Abau
 aaw,Solong
 aax,Mandobo Atas
 aaz,Amarasi
-aba,AbÈ
+aba,Ab√©
 abb,Bankon
 abc,Ambala Ayta
 abd,Manide
@@ -740,7 +740,7 @@ abx,Inabaknon
 aby,Aneme Wake
 abz,Abui
 aca,Achagua
-acb,¡nc·
+acb,√Ånc√°
 acd,Gikyode
 ace,Achinese
 acf,Saint Lucian Creole French
@@ -753,7 +753,7 @@ acn,Achang
 acp,Eastern Acipa
 acq,Ta'izzi-Adeni Arabic
 acr,Achi
-acs,Acro·
+acs,Acro√°
 act,Achterhoeks
 acu,Achuar-Shiwiar
 acv,Achumawi
@@ -847,7 +847,7 @@ ahi,Tiagbamrin Aizi
 ahk,Akha
 ahl,Igo
 ahm,Mobumrin Aizi
-ahn,¿h‡n
+ahn,√Äh√†n
 aho,Ahom
 ahp,Aproumu Aizi
 ahr,Ahirani
@@ -878,7 +878,7 @@ aix,Aighon
 aiy,Ali
 aja,Aja (Sudan)
 ajg,Aja (Benin)
-aji,AjiÎ
+aji,Aji√´
 ajn,Andajin
 ajp,South Levantine Arabic
 ajt,Judeo-Tunisian Arabic
@@ -929,11 +929,11 @@ alr,Alutor
 als,Tosk Albanian
 alt,Southern Altai
 alu,'Are'are
-alw,Alaba-Kíabeena
+alw,Alaba-K¬íabeena
 alx,Amol
 aly,Alyawarr
 alz,Alur
-ama,AmanayÈ
+ama,Amanay√©
 amb,Ambo
 amc,Amahuaca
 ame,Yanesha'
@@ -962,7 +962,7 @@ ana,Andaqui
 anb,Andoa
 anc,Ngas
 and,Ansus
-ane,X‚r‚c˘˘
+ane,X√¢r√¢c√π√π
 anf,Animere
 ang,Old English (ca. 450-1100)
 anh,Nend
@@ -994,9 +994,9 @@ aog,Angoram
 aoh,Arma
 aoi,Anindilyakwa
 aoj,Mufian
-aok,Arhˆ
+aok,Arh√∂
 aol,Alor
-aom,÷mie
+aom,√ñmie
 aon,Bumbita Arapesh
 aor,Aore
 aos,Taikat
@@ -1011,23 +1011,23 @@ ape,Bukiyip
 apf,Pahanan Agta
 apg,Ampanang
 aph,Athpariya
-api,Apiak·
+api,Apiak√°
 apj,Jicarilla Apache
 apk,Kiowa Apache
 apl,Lipan Apache
 apm,Mescalero-Chiricahua Apache
-apn,ApinayÈ
+apn,Apinay√©
 apo,Ambul
 app,Apma
 apq,A-Pucikwar
 apr,Arop-Lokep
 aps,Arop-Sissano
 apt,Apatani
-apu,Apurin„
+apu,Apurin√£
 apv,Alapmunte
 apw,Western Apache
 apx,Aputai
-apy,ApalaÌ
+apy,Apala√≠
 apz,Safeyoka
 aqc,Archi
 aqd,Ampari Dogon
@@ -1035,8 +1035,8 @@ aqg,Arigidi
 aqm,Atohwaim
 aqn,Northern Alta
 aqp,Atakapa
-aqr,Arh‚
-aqt,AngaitÈ
+aqr,Arh√¢
+aqt,Angait√©
 aqz,Akuntsu
 ara,Arabic
 arb,Standard Arabic
@@ -1047,7 +1047,7 @@ arg,Aragonese
 arh,Arhuaco
 ari,Arikara
 arj,Arapaso
-ark,Arikap˙
+ark,Arikap√∫
 arl,Arabela
 arn,Mapudungun
 aro,Araona
@@ -1055,10 +1055,10 @@ arp,Arapaho
 arq,Algerian Arabic
 arr,Karo (Brazil)
 ars,Najdi Arabic
-aru,Aru· (Amazonas State)
+aru,Aru√° (Amazonas State)
 arv,Arbore
 arw,Arawak
-arx,Aru· (Rodonia State)
+arx,Aru√° (Rodonia State)
 ary,Moroccan Arabic
 arz,Egyptian Arabic
 asa,Asu (Tanzania)
@@ -1074,7 +1074,7 @@ asj,Sari
 ask,Ashkun
 asl,Asilulu
 asm,Assamese
-asn,Xing˙ AsurinÌ
+asn,Xing√∫ Asurin√≠
 aso,Dano
 asp,Algerian Sign Language
 asq,Austrian Sign Language
@@ -1093,7 +1093,7 @@ atc,Atsahuaca
 atd,Ata Manobo
 ate,Atemble
 atg,Ivbie North-Okpela-Arhe
-ati,AttiÈ
+ati,Atti√©
 atj,Atikamekw
 atk,Ati
 atl,Mt. Iraya Agta
@@ -1131,7 +1131,7 @@ aur,Aruek
 aut,Austral
 auu,Auye
 auw,Awyi
-aux,Aur·
+aux,Aur√°
 auy,Awiyaana
 auz,Uzbeki Arabic
 ava,Avaric
@@ -1147,11 +1147,11 @@ avo,Agavotaguerra
 avs,Aushiri
 avt,Au
 avu,Avokaya
-avv,Av·-Canoeiro
+avv,Av√°-Canoeiro
 awa,Awadhi
 awb,Awa (Papua New Guinea)
 awc,Cicipu
-awe,AwetÌ
+awe,Awet√≠
 awg,Anguthimri
 awh,Awbono
 awi,Aekyom
@@ -1161,7 +1161,7 @@ awn,Awngi
 awo,Awak
 awr,Awera
 aws,South Awyu
-awt,ArawetÈ
+awt,Arawet√©
 awu,Central Awyu
 awv,Jair Awyu
 aww,Awun
@@ -1169,11 +1169,11 @@ awx,Awara
 awy,Edera Awyu
 axb,Abipon
 axe,Ayerrerenge
-axg,Mato Grosso Ar·ra
+axg,Mato Grosso Ar√°ra
 axk,Yaka (Central African Republic)
 axl,Lower Southern Aranda
 axm,Middle Armenian
-axx,X‚r‚gurË
+axx,X√¢r√¢gur√®
 aya,Awar
 ayb,Ayizo Gbe
 ayc,Southern Aymara
@@ -1207,9 +1207,9 @@ azo,Awing
 azt,Faire Atta
 azz,Highland Puebla Nahuatl
 baa,Babatana
-bab,Bainouk-GunyuÒo
+bab,Bainouk-Gunyu√±o
 bac,Badui
-bae,BarÈ
+bae,Bar√©
 baf,Nubaca
 bag,Tuki
 bah,Bahamas Creole English
@@ -1236,12 +1236,12 @@ bbf,Baibai
 bbg,Barama
 bbh,Bugan
 bbi,Barombi
-bbj,Ghom·l·'
+bbj,Ghom√°l√°'
 bbk,Babanki
 bbl,Bats
 bbm,Babango
 bbn,Uneapa
-bbo,Northern Bobo MadarÈ
+bbo,Northern Bobo Madar√©
 bbp,West Central Banda
 bbq,Bamali
 bbr,Girawa
@@ -1261,7 +1261,7 @@ bce,Bamenyam
 bcf,Bamu
 bcg,Baga Binari
 bch,Bariai
-bci,BaoulÈ
+bci,Baoul√©
 bcj,Bardi
 bck,Bunaba
 bcl,Central Bikol
@@ -1280,7 +1280,7 @@ bcy,Bacama
 bcz,Bainouk-Gunyaamolo
 bda,Bayot
 bdb,Basap
-bdc,Ember·-BaudÛ
+bdc,Ember√°-Baud√≥
 bdd,Bunama
 bde,Bade
 bdf,Biage
@@ -1322,9 +1322,9 @@ beo,Beami
 bep,Besoa
 beq,Beembe
 bes,Besme
-bet,Guiberoua BÈte
+bet,Guiberoua B√©te
 beu,Blagar
-bev,Daloa BÈtÈ
+bev,Daloa B√©t√©
 bew,Betawi
 bex,Jur Modo
 bey,Beli (Papua New Guinea)
@@ -1340,7 +1340,7 @@ bfh,Blafe
 bfi,British Sign Language
 bfj,Bafanji
 bfk,Ban Khor Sign Language
-bfl,Banda-NdÈlÈ
+bfl,Banda-Nd√©l√©
 bfm,Mmen
 bfn,Bunak
 bfo,Malba Birifor
@@ -1448,7 +1448,7 @@ bjs,Bajan
 bjt,Balanta-Ganja
 bju,Busuu
 bjv,Bedjond
-bjw,BakwÈ
+bjw,Bakw√©
 bjx,Banao Itneg
 bjy,Bayali
 bjz,Baruga
@@ -1466,7 +1466,7 @@ bkm,Kom (Cameroon)
 bkn,Bukitan
 bko,Kwa'
 bkp,Boko (Democratic Republic of Congo)
-bkq,BakairÌ
+bkq,Bakair√≠
 bkr,Bakumpai
 bks,Northern Sorsoganon
 bkt,Boloki
@@ -1558,16 +1558,16 @@ boe,Mundabli
 bof,Bolon
 bog,Bamako Sign Language
 boh,Boma
-boi,BarbareÒo
+boi,Barbare√±o
 boj,Anjam
 bok,Bonjo
 bol,Bole
 bom,Berom
 bon,Bine
-boo,TiemacËwË Bozo
+boo,Tiemac√®w√® Bozo
 bop,Bonkiman
 boq,Bogaya
-bor,BorÙro
+bor,Bor√¥ro
 bos,Bosnian
 bot,Bongo
 bou,Bondei
@@ -1575,7 +1575,7 @@ bov,Tuwuli
 bow,Rema
 box,Buamu
 boy,Bodo (Central African Republic)
-boz,TiÈyaxo Bozo
+boz,Ti√©yaxo Bozo
 bpa,Daakaka
 bpb,Barbacoas
 bpd,Banda-Banda
@@ -1608,7 +1608,7 @@ bqg,Bago-Kusuntu
 bqh,Baima
 bqi,Bakhtiari
 bqj,Bandial
-bqk,Banda-MbrËs
+bqk,Banda-Mbr√®s
 bql,Bilakura
 bqm,Wumboko
 bqn,Bulgarian Sign Language
@@ -1670,7 +1670,7 @@ bsr,Bassa-Kontagora
 bss,Akoose
 bst,Basketo
 bsu,Bahonsuai
-bsv,Baga SobanÈ
+bsv,Baga Soban√©
 bsw,Baiso
 bsx,Yangkam
 bsy,Sabah Bisaya
@@ -1679,7 +1679,7 @@ btc,Bati (Cameroon)
 btd,Batak Dairi
 bte,Gamo-Ningi
 btf,Birgit
-btg,Gagnoa BÈtÈ
+btg,Gagnoa B√©t√©
 bth,Biatah Bidayuh
 bti,Burate
 btj,Bacanese Malay
@@ -1757,14 +1757,14 @@ bwf,Boselewa
 bwg,Barwe
 bwh,Bishuo
 bwi,Baniwa
-bwj,L·· L·· Bwamu
+bwj,L√°√° L√°√° Bwamu
 bwk,Bauwaki
 bwl,Bwela
 bwm,Biwat
 bwn,Wunai Bunu
 bwo,Boro (Ethiopia)
 bwp,Mandobo Bawah
-bwq,Southern Bobo MadarÈ
+bwq,Southern Bobo Madar√©
 bwr,Bura-Pabir
 bws,Bomboma
 bwt,Bafaw-Balong
@@ -1848,31 +1848,31 @@ bzw,Basa (Nigeria)
 bzx,K?l?ngaxo Bozo
 bzy,Obanliku
 bzz,Evant
-caa,ChortÌ
+caa,Chort√≠
 cab,Garifuna
 cac,Chuj
 cad,Caddo
 cae,Lehar
 caf,Southern Carrier
-cag,NivaclÈ
+cag,Nivacl√©
 cah,Cahuarano
-caj,ChanÈ
+caj,Chan√©
 cak,Kaqchikel
 cal,Carolinian
-cam,CemuhÓ
+cam,Cemuh√Æ
 can,Chambri
-cao,Ch·cobo
+cao,Ch√°cobo
 cap,Chipaya
 caq,Car Nicobarese
 car,Galibi Carib
-cas,TsimanÈ
+cas,Tsiman√©
 cat,Catalan
-cav,CavineÒa
+cav,Cavine√±a
 caw,Callawalla
 cax,Chiquitano
 cay,Cayuga
 caz,Canichana
-cbb,CabiyarÌ
+cbb,Cabiyar√≠
 cbc,Carapana
 cbd,Carijona
 cbe,Chipiajes
@@ -1923,7 +1923,7 @@ ceg,Chamacoco
 cek,Eastern Khumi Chin
 cen,Cen
 ces,Czech
-cet,Cent˙˙m
+cet,Cent√∫√∫m
 cfa,Dijim-Bwilim
 cfd,Cara
 cfg,Como Karim
@@ -1940,7 +1940,7 @@ che,Chechen
 chf,Tabasco Chontal
 chg,Chagatai
 chh,Chinook
-chj,Ojitl·n Chinantec
+chj,Ojitl√°n Chinantec
 chk,Chuukese
 chl,Cahuilla
 chm,Mari (Russia)
@@ -1949,13 +1949,13 @@ cho,Choctaw
 chp,Chipewyan
 chq,Quiotepec Chinantec
 chr,Cherokee
-cht,CholÛn
+cht,Chol√≥n
 chu,Church Slavic
 chv,Chuvash
 chw,Chuwabu
 chx,Chantyal
 chy,Cheyenne
-chz,OzumacÌn Chinantec
+chz,Ozumac√≠n Chinantec
 cia,Cia-Cia
 cib,Ci Gbe
 cic,Chickasaw
@@ -1976,8 +1976,8 @@ cji,Chamalal
 cjk,Chokwe
 cjm,Eastern Cham
 cjn,Chenapian
-cjo,AshÈninka Pajonal
-cjp,CabÈcar
+cjo,Ash√©ninka Pajonal
+cjp,Cab√©car
 cjs,Shor
 cjv,Chuave
 cjy,Jinyu Chinese
@@ -1994,7 +1994,7 @@ cku,Koasati
 ckv,Kavalan
 ckx,Caka
 cky,Cakfem-Mushere
-ckz,Cakchiquel-QuichÈ Mixed Language
+ckz,Cakchiquel-Quich√© Mixed Language
 cla,Ron
 clc,Chilcotin
 cld,Chaldean Neo-Aramaic
@@ -2013,7 +2013,7 @@ cly,Eastern Highland Chatino
 cma,Maa
 cme,Cerma
 cmg,Classical Mongolian
-cmi,Ember·-ChamÌ
+cmi,Ember√°-Cham√≠
 cml,Campalagian
 cmm,Michigamea
 cmn,Mandarin Chinese
@@ -2023,10 +2023,10 @@ cms,Messapic
 cmt,Camtho
 cna,Changthang
 cnb,Chinbon Chin
-cnc,CÙÙng
+cnc,C√¥√¥ng
 cng,Northern Qiang
 cnh,Haka Chin
-cni,Ash·ninka
+cni,Ash√°ninka
 cnk,Khumi Chin
 cnl,Lalana Chinantec
 cno,Con
@@ -2047,7 +2047,7 @@ coj,Cochimi
 cok,Santa Teresa Cora
 col,Columbia-Wenatchi
 com,Comanche
-con,Cof·n
+con,Cof√°n
 coo,Comox
 cop,Coptic
 coq,Coquille
@@ -2061,16 +2061,16 @@ cox,Nanti
 coy,Coyaima
 coz,Chochotec
 cpa,Palantla Chinantec
-cpb,Ucayali-Yur˙a AshÈninka
-cpc,AjyÌninka Apurucayali
+cpb,Ucayali-Yur√∫a Ash√©ninka
+cpc,Ajy√≠ninka Apurucayali
 cpg,Cappadocian Greek
 cpi,Chinese Pidgin English
 cpn,Cherepon
 cpo,Kpeego
 cps,Capiznon
-cpu,Pichis AshÈninka
+cpu,Pichis Ash√©ninka
 cpx,Pu-Xian Chinese
-cpy,South Ucayali AshÈninka
+cpy,South Ucayali Ash√©ninka
 cqd,Chuanqiandian Cluster Miao
 cqu,Chilean Quechua
 cra,Chara
@@ -2081,7 +2081,7 @@ cre,Cree
 crf,Caramanta
 crg,Michif
 crh,Crimean Tatar
-cri,S„otomense
+cri,S√£otomense
 crj,Southern East Cree
 crk,Plains Cree
 crl,Northern East Cree
@@ -2096,7 +2096,7 @@ crv,Chaura
 crw,Chrau
 crx,Carrier
 cry,Cori
-crz,CruzeÒo
+crz,Cruze√±o
 csa,Chiltepec Chinantec
 csb,Kashubian
 csc,Catalan Sign Language
@@ -2129,7 +2129,7 @@ cth,Thaiphum Chin
 ctl,Tlacoatzintepec Chinantec
 ctm,Chitimacha
 ctn,Chhintange
-cto,Ember·-CatÌo
+cto,Ember√°-Cat√≠o
 ctp,Western Highland Chatino
 cts,Northern Catanduanes Bikol
 ctt,Wayanad Chetti
@@ -2146,7 +2146,7 @@ cuk,San Blas Kuna
 cul,Culina
 cum,Cumeral
 cuo,Cumanagoto
-cup,CupeÒo
+cup,Cupe√±o
 cuq,Cun
 cur,Chhulung
 cut,Teutila Cuicatec
@@ -2171,7 +2171,7 @@ czk,Knaanic
 czn,Zenzontepec Chatino
 czo,Min Zhong Chinese
 czt,Zotung Chin
-daa,DangalÈat
+daa,Dangal√©at
 dac,Dambi
 dad,Marik
 dae,Duupa
@@ -2348,13 +2348,13 @@ dng,Dungan
 dni,Lower Grand Valley Dani
 dnj,Dan
 dnk,Dengka
-dnn,Dz˘˘ngoo
+dnn,Dz√π√πngoo
 dnr,Danaru
 dnt,Mid Grand Valley Dani
 dnu,Danau
 dnv,Danu
 dnw,Western Dani
-dny,DenÌ
+dny,Den√≠
 doa,Dom
 dob,Dobu
 doc,Northern Dong
@@ -2369,7 +2369,7 @@ doo,Dongo
 dop,Lukpa
 doq,Dominican Sign Language
 dor,Dori'o
-dos,DogosÈ
+dos,Dogos√©
 dot,Dass
 dov,Dombe
 dow,Doyayo
@@ -2465,7 +2465,7 @@ eaa,Karenggapa
 ebg,Ebughu
 ebk,Eastern Bontok
 ebo,Teke-Ebo
-ebr,EbriÈ
+ebr,Ebri√©
 ebu,Embu
 ecr,Eteocretan
 ecs,Ecuadorian Sign Language
@@ -2512,7 +2512,7 @@ emi,Mussau-Emira
 emk,Eastern Maninkakan
 emm,Mamulique
 emn,Eman
-emp,Northern Ember·
+emp,Northern Ember√°
 ems,Pacific Gulf Yupik
 emu,Eastern Muria
 emw,Emplawas
@@ -2535,7 +2535,7 @@ enu,Enu
 env,Enwan (Edu State)
 enw,Enwan (Akwa Ibom State)
 enx,Enxet
-eot,Beti (CÙte d'Ivoire)
+eot,Beti (C√¥te d'Ivoire)
 epi,Epie
 epo,Esperanto
 era,Eravallan
@@ -2665,7 +2665,7 @@ fui,Bagirmi Fulfulde
 fuj,Ko
 ful,Fulah
 fum,Fum
-fun,FulniÙ
+fun,Fulni√¥
 fuq,Central-Eastern Niger Fulfulde
 fur,Friulian
 fut,Futuna-Aniwa
@@ -2673,7 +2673,7 @@ fuu,Furu
 fuv,Nigerian Fulfulde
 fuy,Fuyug
 fvr,Fur
-fwa,Fw‚i
+fwa,Fw√¢i
 fwe,Fwe
 gaa,Ga
 gab,Gabri
@@ -2785,7 +2785,7 @@ ggo,Southern Gondi
 ggt,Gitua
 ggu,Gagu
 ggw,Gogodala
-gha,GhadamËs
+gha,Ghadam√®s
 ghc,Hiberno-Scottish Gaelic
 ghe,Southern Ghale
 ghh,Northern Ghale
@@ -2843,7 +2843,7 @@ glw,Glavda
 gly,Gule
 gma,Gambera
 gmb,Gula'alaa
-gmd,M·ghdÏ
+gmd,M√°ghd√¨
 gmg,Mag?yi
 gmh,Middle High German (ca. 1050-1500)
 gml,Middle Low German
@@ -2871,12 +2871,12 @@ gnq,Gana
 gnr,Gureng Gureng
 gnt,Guntai
 gnu,Gnau
-gnw,Western Bolivian GuaranÌ
+gnw,Western Bolivian Guaran√≠
 gnz,Ganzi
 goa,Guro
 gob,Playero
 goc,Gorakor
-god,GodiÈ
+god,Godi√©
 goe,Gongduk
 gof,Gofa
 gog,Gogo
@@ -2936,44 +2936,44 @@ gso,Southwest Gbaya
 gsp,Wasembo
 gss,Greek Sign Language
 gsw,Swiss German
-gta,GuatÛ
+gta,Guat√≥
 gti,Gbati-ri
 gtu,Aghu-Tharnggala
 gua,Shiki
-gub,Guajaj·ra
+gub,Guajaj√°ra
 guc,Wayuu
-gud,YocobouÈ Dida
+gud,Yocobou√© Dida
 gue,Gurinji
 guf,Gupapuyngu
-gug,Paraguayan GuaranÌ
+gug,Paraguayan Guaran√≠
 guh,Guahibo
-gui,Eastern Bolivian GuaranÌ
+gui,Eastern Bolivian Guaran√≠
 guj,Gujarati
 guk,Gumuz
 gul,Sea Island Creole English
 gum,Guambiano
-gun,Mby· GuaranÌ
+gun,Mby√° Guaran√≠
 guo,Guayabero
 gup,Gunwinggu
-guq,AchÈ
+guq,Ach√©
 gur,Farefare
 gus,Guinean Sign Language
-gut,MalÈku JaÌka
-guu,Yanomamˆ
+gut,Mal√©ku Ja√≠ka
+guu,Yanomam√∂
 guv,Gey
 guw,Gun
-gux,GourmanchÈma
+gux,Gourmanch√©ma
 guz,Gusii
 gva,Guana (Paraguay)
 gvc,Guanano
 gve,Duwet
 gvf,Golin
-gvj,Guaj·
+gvj,Guaj√°
 gvl,Gulay
 gvm,Gurmana
 gvn,Kuku-Yalanji
-gvo,Gavi„o Do Jiparan·
-gvp,Par· Gavi„o
+gvo,Gavi√£o Do Jiparan√°
+gvp,Par√° Gavi√£o
 gvr,Western Gurung
 gvs,Gumawana
 gvy,Guyani
@@ -2993,7 +2993,7 @@ gwt,Gawar-Bati
 gwu,Guwamu
 gww,Kwini
 gwx,Gua
-gxx,WË Southern
+gxx,W√® Southern
 gya,Northwest Gbaya
 gyb,Garus
 gyd,Kayardild
@@ -3002,7 +3002,7 @@ gyf,Gungabula
 gyg,Gbayi
 gyi,Gyele
 gyl,Gayil
-gym,Ng‰bere
+gym,Ng√§bere
 gyn,Guyanese Creole English
 gyr,Guarayu
 gyy,Gunya
@@ -3023,7 +3023,7 @@ hak,Hakka Chinese
 hal,Halang
 ham,Hewa
 han,Hangaza
-hao,Hakˆ
+hao,Hak√∂
 hap,Hupla
 haq,Ha
 har,Harari
@@ -3048,7 +3048,7 @@ hds,Honduras Sign Language
 hdy,Hadiyya
 hea,Northern Qiandong Miao
 heb,Hebrew
-hed,HerdÈ
+hed,Herd√©
 heg,Helong
 heh,Hehe
 hei,Heiltsuk
@@ -3071,10 +3071,10 @@ hik,Seit-Kaitetu
 hil,Hiligaynon
 hin,Hindi
 hio,Tsoa
-hir,Himarim„
+hir,Himarim√£
 hit,Hittite
 hiw,Hiw
-hix,Hixkary·na
+hix,Hixkary√°na
 hji,Haji
 hka,Kahe
 hke,Hunde
@@ -3107,7 +3107,7 @@ hmr,Hmar
 hms,Southern Qiandong Miao
 hmt,Hamtai
 hmu,Hamap
-hmv,Hmong DÙ
+hmv,Hmong D√¥
 hmw,Western Mashan Hmong
 hmy,Southern Guiyang Hmong
 hmz,Hmong Shua
@@ -3126,7 +3126,7 @@ hob,Mari (Madang Province)
 hoc,Ho
 hod,Holma
 hoe,Horom
-hoh,HobyÛt
+hoh,Hoby√≥t
 hoi,Holikachuk
 hoj,Hadothi
 hol,Holu
@@ -3149,7 +3149,7 @@ hrk,Haruku
 hrm,Horned Miao
 hro,Haroi
 hrp,Nhirrpi
-hrt,HÈrtevin
+hrt,H√©rtevin
 hru,Hruso
 hrv,Croatian
 hrw,Warwar Feni
@@ -3187,15 +3187,15 @@ hut,Humla
 huu,Murui Huitoto
 huv,San Mateo Del Mar Huave
 huw,Hukumina
-hux,N¸pode Huitoto
-huy,Hulaul·
+hux,N√ºpode Huitoto
+huy,Hulaul√°
 huz,Hunzib
 hvc,Haitian Vodoun Culture Language
 hve,San Dionisio Del Mar Huave
 hvk,Haveke
 hvn,Sabu
-hvv,Santa MarÌa Del Mar Huave
-hwa,WanÈ
+hvv,Santa Mar√≠a Del Mar Huave
+hwa,Wan√©
 hwc,Hawai'i Creole English
 hwo,Hwana
 hya,Hya
@@ -3229,11 +3229,11 @@ idi,Idi
 ido,Ido
 idr,Indri
 ids,Idesa
-idt,IdatÈ
+idt,Idat√©
 idu,Idoma
 ifa,Amganad Ifugao
 ifb,Batad Ifugao
-ife,IfË
+ife,If√®
 iff,Ifo
 ifk,Tuwali Ifugao
 ifm,Teke-Fuumu
@@ -3302,10 +3302,10 @@ inl,Indonesian Sign Language
 inm,Minaean
 inn,Isinai
 ino,Inoke-Yate
-inp,IÒapari
+inp,I√±apari
 ins,Indian Sign Language
 int,Intha
-inz,IneseÒo
+inz,Inese√±o
 ior,Inor
 iou,Tuma-Irumu
 iow,Iowa-Oto
@@ -3318,7 +3318,7 @@ ire,Iresim
 irh,Irarutu
 iri,Irigwe
 irk,Iraqw
-irn,Ir·ntxe
+irn,Ir√°ntxe
 irr,Ir
 iru,Irula
 irx,Kamberau
@@ -3353,7 +3353,7 @@ itv,Itawit
 itw,Ito
 itx,Itik
 ity,Moyadan Itneg
-itz,Itz·
+itz,Itz√°
 ium,Iu Mien
 ivb,Ibatan
 ivv,Ivatan
@@ -3369,7 +3369,7 @@ iyx,Yaka (Congo)
 izh,Ingrian
 izr,Izere
 izz,Izii
-jaa,JamamadÌ
+jaa,Jamamad√≠
 jab,Hyam
 jac,Popti'
 jad,Jahanka
@@ -3397,7 +3397,7 @@ jbk,Barikewa
 jbn,Nafusi
 jbo,Lojban
 jbr,Jofotek-Bromnya
-jbt,JabutÌ
+jbt,Jabut√≠
 jbu,Jukun Takum
 jbw,Yawijibaya
 jcs,Jamaican Country Sign Language
@@ -3466,7 +3466,7 @@ jnl,Rawat
 jns,Jaunsari
 job,Joba
 jod,Wojenaka
-jor,Jor·
+jor,Jor√°
 jos,Jordanian Sign Language
 jow,Jowulu
 jpa,Jewish Palestinian Aramaic
@@ -3477,25 +3477,25 @@ jra,Jarai
 jrb,Judeo-Arabic
 jrr,Jiru
 jrt,Jorto
-jru,JaprerÌa
+jru,Japrer√≠a
 jsl,Japanese Sign Language
-jua,J˙ma
+jua,J√∫ma
 jub,Wannu
 juc,Jurchen
 jud,Worodougou
-juh,Hıne
+juh,H√µne
 jui,Ngadjuri
 juk,Wapan
 jul,Jirel
 jum,Jumjum
 jun,Juang
 juo,Jiba
-jup,HupdÎ
-jur,Jur˙na
+jup,Hupd√´
+jur,Jur√∫na
 jus,Jumla Sign Language
 jut,Jutish
 juu,Ju
-juw,W„pha
+juw,W√£pha
 juy,Juray
 jvd,Javindo
 jvn,Caribbean Javanese
@@ -3523,19 +3523,19 @@ kaq,Capanahua
 kas,Kashmiri
 kat,Georgian
 kau,Kanuri
-kav,KatukÌna
+kav,Katuk√≠na
 kaw,Kawi
 kax,Kao
-kay,Kamayur·
+kay,Kamayur√°
 kaz,Kazakh
 kba,Kalarko
-kbb,Kaxui‚na
-kbc,KadiwÈu
+kbb,Kaxui√¢na
+kbc,Kadiw√©u
 kbd,Kabardian
 kbe,Kanju
 kbf,Kakauhua
 kbg,Khamba
-kbh,Cams·
+kbh,Cams√°
 kbi,Kaptiau
 kbj,Kari
 kbk,Grass Koiari
@@ -3543,7 +3543,7 @@ kbl,Kanembu
 kbm,Iwal
 kbn,Kare (Central African Republic)
 kbo,Keliko
-kbp,KabiyË
+kbp,Kabiy√®
 kbq,Kamano
 kbr,Kafa
 kbs,Kande
@@ -3557,7 +3557,7 @@ kbz,Duhwa
 kca,Khanty
 kcb,Kawacha
 kcc,Lubila
-kcd,Ngk‚lmpw Kanum
+kcd,Ngk√¢lmpw Kanum
 kce,Kaivi
 kcf,Ukaan
 kcg,Tyap
@@ -3589,7 +3589,7 @@ kdg,Seba
 kdh,Tem
 kdi,Kumam
 kdj,Karamojong
-kdk,NumËË
+kdk,Num√®√®
 kdl,Tsikimba
 kdm,Kagoma
 kdn,Kunda
@@ -3603,7 +3603,7 @@ kdx,Kam
 kdy,Keder
 kdz,Kwaja
 kea,Kabuverdianu
-keb,KÈlÈ
+keb,K√©l√©
 kec,Keiga
 ked,Kerewe
 kee,Eastern Keres
@@ -3612,7 +3612,7 @@ keg,Tese
 keh,Keak
 kei,Kei
 kej,Kadar
-kek,KekchÌ
+kek,Kekch√≠
 kel,Kela (Democratic Republic of Congo)
 kem,Kemak
 ken,Kenyang
@@ -3642,7 +3642,7 @@ kfk,Kinnauri
 kfl,Kung
 kfm,Khunsari
 kfn,Kuk
-kfo,Koro (CÙte d'Ivoire)
+kfo,Koro (C√¥te d'Ivoire)
 kfp,Korwa
 kfq,Korku
 kfr,Kachchi
@@ -3653,7 +3653,7 @@ kfv,Kurmukar
 kfw,Kharam Naga
 kfx,Kullu Pahari
 kfy,Kumaoni
-kfz,KoromfÈ
+kfz,Koromf√©
 kga,Koyaga
 kgb,Kawe
 kgc,Kasseng
@@ -3663,9 +3663,9 @@ kgf,Kube
 kgg,Kusunda
 kgi,Selangor Sign Language
 kgj,Gamale Kham
-kgk,Kaiw·
+kgk,Kaiw√°
 kgl,Kunggari
-kgm,Karip˙na
+kgm,Karip√∫na
 kgn,Karingani
 kgo,Krongo
 kgp,Kaingang
@@ -3679,9 +3679,9 @@ kgw,Karon Dori
 kgx,Kamaru
 kgy,Kyerung
 kha,Khasi
-khb,L¸
+khb,L√º
 khc,Tukang Besi North
-khd,B‰di Kanum
+khd,B√§di Kanum
 khe,Korowai
 khf,Khuen
 khg,Khams Tibetan
@@ -3741,7 +3741,7 @@ kji,Zabana
 kjj,Khinalugh
 kjk,Highland Konjo
 kjl,Western Parbate Kham
-kjm,Kh·ng
+kjm,Kh√°ng
 kjn,Kunjen
 kjo,Harijan Kinnauri
 kjp,Pwo Eastern Karen
@@ -3760,7 +3760,7 @@ kkd,Kinuku
 kke,Kakabe
 kkf,Kalaktang Monpa
 kkg,Mabaka Valley Kalinga
-kkh,Kh¸n
+kkh,Kh√ºn
 kki,Kagulu
 kkj,Kako
 kkk,Kokota
@@ -3811,7 +3811,7 @@ kmc,Southern Dong
 kmd,Majukayang Kalinga
 kme,Bakole
 kmf,Kare (Papua New Guinea)
-kmg,K‚te
+kmg,K√¢te
 kmh,Kalam
 kmi,Kami (Nigeria)
 kmj,Kumarbhag Paharia
@@ -3826,7 +3826,7 @@ kmr,Northern Kurdish
 kms,Kamasau
 kmt,Kemtuik
 kmu,Kanite
-kmv,Karip˙na Creole French
+kmv,Karip√∫na Creole French
 kmw,Komo (Democratic Republic of Congo)
 kmx,Waboda
 kmy,Koma
@@ -3842,20 +3842,20 @@ kni,Kanufi
 knj,Western Kanjobal
 knk,Kuranko
 knl,Keninjal
-knm,KanamarÌ
+knm,Kanamar√≠
 knn,Konkani (individual language)
 kno,Kono (Sierra Leone)
 knp,Kwanja
 knq,Kintaq
 knr,Kaningra
 kns,Kensiu
-knt,Panoan KatukÌna
+knt,Panoan Katuk√≠na
 knu,Kono (Guinea)
 knv,Tabo
 knw,Kung-Ekoka
 knx,Kendayan
 kny,Kanyok
-knz,KalamsÈ
+knz,Kalams√©
 koa,Konomala
 koc,Kpati
 kod,Kodi
@@ -3890,11 +3890,11 @@ kpf,Komba
 kpg,Kapingamarangi
 kph,Kplang
 kpi,Kofei
-kpj,Karaj·
+kpj,Karaj√°
 kpk,Kpan
 kpl,Kpala
 kpm,Koho
-kpn,Kepkiriw·t
+kpn,Kepkiriw√°t
 kpo,Ikposo
 kpq,Korupun-Sela
 kpr,Korafe-Yegha
@@ -3921,7 +3921,7 @@ kql,Kyenele
 kqm,Khisa
 kqn,Kaonde
 kqo,Eastern Krahn
-kqp,KimrÈ
+kqp,Kimr√©
 kqq,Krenak
 kqr,Kimaragang
 kqs,Northern Kissi
@@ -3936,7 +3936,7 @@ kra,Kumhali
 krb,Karkin
 krc,Karachay-Balkar
 krd,Kairui-Midiki
-kre,Panar·
+kre,Panar√°
 krf,Koro (Vanuatu)
 krh,Kurama
 kri,Krio
@@ -3962,7 +3962,7 @@ ksd,Kuanua
 kse,Kuni
 ksf,Bafia
 ksg,Kusaghe
-ksh,Kˆlsch
+ksh,K√∂lsch
 ksi,Krisa
 ksj,Uare
 ksk,Kansa
@@ -3974,7 +3974,7 @@ ksp,Kaba
 ksq,Kwaami
 ksr,Borong
 kss,Southern Kisi
-kst,WinyÈ
+kst,Winy√©
 ksu,Khamyang
 ksv,Kusu
 ksw,S'gaw Karen
@@ -3994,7 +3994,7 @@ ktj,Plapo Krumen
 ktk,Kaniet
 ktl,Koroshi
 ktm,Kurti
-ktn,Kariti‚na
+ktn,Kariti√¢na
 kto,Kuot
 ktp,Kaduo
 ktq,Katabaga
@@ -4004,8 +4004,8 @@ ktt,Ketum
 ktu,Kituba (Democratic Republic of Congo)
 ktv,Eastern Katu
 ktw,Kato
-ktx,KaxararÌ
-kty,Kango (Bas-UÈlÈ District)
+ktx,Kaxarar√≠
+kty,Kango (Bas-U√©l√© District)
 ktz,Ju/'hoan
 kua,Kuanyama
 kub,Kutep
@@ -4015,7 +4015,7 @@ kue,Kuman
 kuf,Western Katu
 kug,Kupa
 kuh,Kushi
-kui,Kuik˙ro-Kalap·lo
+kui,Kuik√∫ro-Kalap√°lo
 kuj,Kuria
 kuk,Kepo'
 kul,Kulere
@@ -4059,7 +4059,7 @@ kvw,Wersing
 kvx,Parkari Koli
 kvy,Yintale Karen
 kvz,Tsakwambo
-kwa,D‚w
+kwa,D√¢w
 kwb,Kwa
 kwc,Likwala
 kwd,Kwaio
@@ -4080,7 +4080,7 @@ kwr,Kwer
 kws,Kwese
 kwt,Kwesten
 kwu,Kwakum
-kwv,Sara Kaba N·‡
+kwv,Sara Kaba N√°√†
 kww,Kwinti
 kwx,Khirwar
 kwy,San Salvador Kongo
@@ -4098,9 +4098,9 @@ kxk,Zayein Karen
 kxl,Nepali Kurux
 kxm,Northern Khmer
 kxn,Kanowit-Tanjong Melanau
-kxo,KanoÈ
+kxo,Kano√©
 kxp,Wadiyara Koli
-kxq,Sm‰rky Kanum
+kxq,Sm√§rky Kanum
 kxr,Koro (Papua New Guinea)
 kxs,Kangjia
 kxt,Koiwat
@@ -4127,7 +4127,7 @@ kyn,Northern Binukidnon
 kyo,Kelon
 kyp,Kang
 kyq,Kenga
-kyr,Kuru·ya
+kyr,Kuru√°ya
 kys,Baram Kayan
 kyt,Kayagar
 kyu,Western Kayah
@@ -4135,7 +4135,7 @@ kyv,Kayort
 kyw,Kudmali
 kyx,Rapoisi
 kyy,Kambaira
-kyz,KayabÌ
+kyz,Kayab√≠
 kza,Western Karaboro
 kzb,Kaibobo
 kzc,Bondoukou Kulango
@@ -4157,7 +4157,7 @@ kzs,Sugut Dusun
 kzt,Tambunan Dusun
 kzu,Kayupulau
 kzv,Komyandaret
-kzw,KarirÌ-XocÛ
+kzw,Karir√≠-Xoc√≥
 kzx,Kamarian
 kzy,Kango (Tshopo District)
 kzz,Kalabra
@@ -4230,7 +4230,7 @@ ldj,Lemoro
 ldk,Leelau
 ldl,Kaan
 ldm,Landoma
-ldn,L·adan
+ldn,L√°adan
 ldo,Loo
 ldp,Tso
 ldq,Lufu
@@ -4238,7 +4238,7 @@ lea,Lega-Shabunda
 leb,Lala-Bisa
 lec,Leco
 led,Lendu
-lee,LyÈlÈ
+lee,Ly√©l√©
 lef,Lelemi
 leh,Lenje
 lei,Lemio
@@ -4282,7 +4282,7 @@ lhl,Lahul Lohar
 lhm,Lhomi
 lhn,Lahanan
 lhp,Lhokpu
-lhs,Mlahsˆ
+lhs,Mlahs√∂
 lht,Lo-Toga
 lhu,Lahu
 lia,West-Central Limba
@@ -4321,7 +4321,7 @@ ljx,Yuru
 lka,Lakalei
 lkb,Kabras
 lkc,Kucong
-lkd,LakondÍ
+lkd,Lakond√™
 lke,Kenyi
 lkh,Lakha
 lki,Laki
@@ -4330,7 +4330,7 @@ lkl,Laeko-Libuat
 lkm,Kalaamaya
 lkn,Lakon
 lko,Khayo
-lkr,P‰ri
+lkr,P√§ri
 lks,Kisa
 lkt,Lakota
 lku,Kungkari
@@ -4359,7 +4359,7 @@ lma,East Limba
 lmb,Merei
 lmc,Limilngan
 lmd,Lumun
-lme,PÈvÈ
+lme,P√©v√©
 lmf,South Lembata
 lmg,Lamogai
 lmh,Lambichhong
@@ -4400,7 +4400,7 @@ loe,Saluan
 lof,Logol
 log,Logo
 loh,Narim
-loi,Loma (CÙte d'Ivoire)
+loi,Loma (C√¥te d'Ivoire)
 loj,Lou
 lok,Loko
 lol,Mongo
@@ -4409,7 +4409,7 @@ lon,Malawi Lomwe
 loo,Lombo
 lop,Lopa
 loq,Lobala
-lor,TÈÈn
+lor,T√©√©n
 los,Loniu
 lot,Otuho
 lou,Louisiana Creole French
@@ -4454,7 +4454,7 @@ lsy,Mauritian Sign Language
 ltc,Late Middle Chinese
 ltg,Latgalian
 lti,Leti (Indonesia)
-ltn,LatundÍ
+ltn,Latund√™
 lto,Tsotso
 lts,Tachoni
 ltu,Latu
@@ -4504,7 +4504,7 @@ lzh,Literary Chinese
 lzl,Litzlitz
 lzn,Leinong Naga
 lzz,Laz
-maa,San JerÛnimo TecÛatl Mazatec
+maa,San Jer√≥nimo Tec√≥atl Mazatec
 mab,Yutanduchi Mixtec
 mad,Madurese
 mae,Bo-Rukul
@@ -4512,17 +4512,17 @@ maf,Mafa
 mag,Magahi
 mah,Marshallese
 mai,Maithili
-maj,Jalapa De DÌaz Mazatec
+maj,Jalapa De D√≠az Mazatec
 mak,Makasar
 mal,Malayalam
 mam,Mam
 man,Mandingo
-maq,Chiquihuitl·n Mazatec
+maq,Chiquihuitl√°n Mazatec
 mar,Marathi
 mas,Masai
 mat,San Francisco Matlatzinca
 mau,Huautla Mazatec
-mav,SaterÈ-MawÈ
+mav,Sater√©-Maw√©
 maw,Mampruli
 max,North Moluccan Malay
 maz,Central Mazahua
@@ -4534,15 +4534,15 @@ mbe,Molale
 mbf,Baba Malay
 mbh,Mangseng
 mbi,Ilianen Manobo
-mbj,NadÎb
+mbj,Nad√´b
 mbk,Malol
-mbl,MaxakalÌ
+mbl,Maxakal√≠
 mbm,Ombamba
-mbn,Macagu·n
+mbn,Macagu√°n
 mbo,Mbo (Cameroon)
 mbp,Malayo
 mbq,Maisin
-mbr,Nukak Mak˙
+mbr,Nukak Mak√∫
 mbs,Sarangani Manobo
 mbt,Matigsalug Manobo
 mbu,Mbula-Bwazza
@@ -4556,7 +4556,7 @@ mcb,Machiguenga
 mcc,Bitur
 mcd,Sharanahua
 mce,Itundujia Mixtec
-mcf,MatsÈs
+mcf,Mats√©s
 mcg,Mapoyo
 mch,Maquiritari
 mci,Mese
@@ -4565,7 +4565,7 @@ mck,Mbunda
 mcl,Macaguaje
 mcm,Malaccan Creole Portuguese
 mcn,Masana
-mco,Coatl·n Mixe
+mco,Coatl√°n Mixe
 mcp,Makaa
 mcq,Ese
 mcr,Menya
@@ -4597,11 +4597,11 @@ mdr,Mandar
 mds,Maria (Papua New Guinea)
 mdt,Mbere
 mdu,Mboko
-mdv,Santa LucÌa Monteverde Mixtec
+mdv,Santa Luc√≠a Monteverde Mixtec
 mdw,Mbosi
 mdx,Dizin
 mdy,Male (Ethiopia)
-mdz,SuruÌ Do Par·
+mdz,Suru√≠ Do Par√°
 mea,Menka
 meb,Ikobi
 mec,Mara
@@ -4689,7 +4689,7 @@ mhj,Mogholi
 mhk,Mungaka
 mhl,Mauwake
 mhm,Makhuwa-Moniga
-mhn,MÛcheno
+mhn,M√≥cheno
 mho,Mashi (Zambia)
 mhp,Balinese Malay
 mhq,Mandan
@@ -4702,22 +4702,22 @@ mhx,Maru
 mhy,Ma'anyan
 mhz,Mor (Mor Islands)
 mia,Miami
-mib,Atatl·huca Mixtec
+mib,Atatl√°huca Mixtec
 mic,Mi'kmaq
 mid,Mandaic
 mie,Ocotepec Mixtec
 mif,Mofu-Gudur
 mig,San Miguel El Grande Mixtec
 mih,Chayuco Mixtec
-mii,Chigmecatitl·n Mixtec
+mii,Chigmecatitl√°n Mixtec
 mij,Abar
 mik,Mikasuki
-mil,PeÒoles Mixtec
+mil,Pe√±oles Mixtec
 mim,Alacatlatzala Mixtec
 min,Minangkabau
 mio,Pinotepa Nacional Mixtec
 mip,Apasco-Apoala Mixtec
-miq,MÌskito
+miq,M√≠skito
 mir,Isthmus Mixe
 mis,Uncoded languages
 mit,Southern Puebla Mixtec
@@ -4800,12 +4800,12 @@ mlx,Malfaxal
 mlz,Malaynon
 mma,Mama
 mmb,Momina
-mmc,Michoac·n Mazahua
+mmc,Michoac√°n Mazahua
 mmd,Maonan
 mme,Mae
 mmf,Mundat
 mmg,North Ambrym
-mmh,Mehin·ku
+mmh,Mehin√°ku
 mmi,Musar
 mmj,Majhwar
 mmk,Mukha-Dora
@@ -4826,7 +4826,7 @@ mmz,Mabaale
 mna,Mbula
 mnb,Muna
 mnc,Manchu
-mnd,MondÈ
+mnd,Mond√©
 mne,Naba
 mnf,Mundani
 mng,Eastern Mnong
@@ -4848,7 +4848,7 @@ mnx,Manikion
 mny,Manyawa
 mnz,Moni
 moa,Mwan
-moc,MocovÌ
+moc,Mocov√≠
 mod,Mobilian
 moe,Montagnais
 mog,Mongondow
@@ -4859,11 +4859,11 @@ mok,Morori
 mom,Mangue
 mon,Mongolian
 moo,Monom
-mop,Mop·n Maya
+mop,Mop√°n Maya
 moq,Mor (Bomberai Peninsula)
 mor,Moro
 mos,Mossi
-mot,BarÌ
+mot,Bar√≠
 mou,Mogum
 mov,Mohave
 mow,Moi (Congo)
@@ -4881,15 +4881,15 @@ mpi,Mpade
 mpj,Martu Wangka
 mpk,Mbara (Chad)
 mpl,Middle Watut
-mpm,Yosond˙a Mixtec
+mpm,Yosond√∫a Mixtec
 mpn,Mindiri
 mpo,Miu
 mpp,Migabac
-mpq,MatÌs
+mpq,Mat√≠s
 mpr,Vangunu
 mps,Dadibi
 mpt,Mian
-mpu,Makur·p
+mpu,Makur√°p
 mpv,Mungkip
 mpw,Mapidian
 mpx,Misima-Panaeati
@@ -4959,9 +4959,9 @@ msj,Ma (Democratic Republic of Congo)
 msk,Mansaka
 msl,Molof
 msm,Agusan Manobo
-msn,VurÎs
+msn,Vur√´s
 mso,Mombum
-msp,Maritsau·
+msp,Maritsau√°
 msq,Caac
 msr,Mongolian Sign Language
 mss,West Masela
@@ -4986,7 +4986,7 @@ mtl,Montol
 mtm,Mator
 mtn,Matagalpa
 mto,Totontepec Mixe
-mtp,WichÌ LhamtÈs Nocten
+mtp,Wich√≠ Lhamt√©s Nocten
 mtq,Muong
 mtr,Mewari
 mts,Yora
@@ -4994,7 +4994,7 @@ mtt,Mota
 mtu,Tututepec Mixtec
 mtv,Asaro'o
 mtw,Southern Binukidnon
-mtx,Tida· Mixtec
+mtx,Tida√° Mixtec
 mty,Nabi
 mua,Mundang
 mub,Mubi
@@ -5002,7 +5002,7 @@ muc,Ajumbu
 mud,Mednyj Aleut
 mue,Media Lengua
 mug,Musgu
-muh,M¸nd¸
+muh,M√ºnd√º
 mui,Musi
 muj,Mabire
 muk,Mugom
@@ -5024,7 +5024,7 @@ mvb,Mattole
 mvd,Mamboru
 mve,Marwari (Pakistan)
 mvf,Peripheral Mongolian
-mvg,YucuaÒe Mixtec
+mvg,Yucua√±e Mixtec
 mvh,Mulgi
 mvi,Miyako
 mvk,Mekmek
@@ -5058,7 +5058,7 @@ mwm,Sar
 mwn,Nyamwanga
 mwo,Central Maewo
 mwp,Kala Lagaw Ya
-mwq,M¸n Chin
+mwq,M√ºn Chin
 mwr,Marwari
 mws,Mwimbi-Muthambi
 mwt,Moken
@@ -5069,7 +5069,7 @@ mwx,Mediak
 mwy,Mosiro
 mwz,Moingi
 mxa,Northwest Oaxaca Mixtec
-mxb,Tezoatl·n Mixtec
+mxb,Tezoatl√°n Mixtec
 mxc,Manyika
 mxd,Modang
 mxe,Mele-Fila
@@ -5089,10 +5089,10 @@ mxr,Murik (Malaysia)
 mxs,Huitepec Mixtec
 mxt,Jamiltepec Mixtec
 mxu,Mada (Cameroon)
-mxv,MetlatÛnoc Mixtec
+mxv,Metlat√≥noc Mixtec
 mxw,Namo
 mxx,Mahou
-mxy,Southeastern Nochixtl·n Mixtec
+mxy,Southeastern Nochixtl√°n Mixtec
 mxz,Central Masela
 mya,Burmese
 myb,Mbay
@@ -5108,32 +5108,32 @@ myk,Mamara Senoufo
 myl,Moma
 mym,Me'en
 myo,Anfillo
-myp,Pirah„
+myp,Pirah√£
 myr,Muniche
 mys,Mesmes
-myu,Munduruk˙
+myu,Munduruk√∫
 myv,Erzya
 myw,Muyuw
 myx,Masaaba
 myy,Macuna
 myz,Classical Mandaic
-mza,Santa MarÌa Zacatepec Mixtec
+mza,Santa Mar√≠a Zacatepec Mixtec
 mzb,Tumzabt
 mzc,Madagascar Sign Language
 mzd,Malimba
 mze,Morawa
 mzg,Monastic Sign Language
-mzh,WichÌ LhamtÈs G¸isnay
-mzi,Ixcatl·n Mazatec
+mzh,Wich√≠ Lhamt√©s G√ºisnay
+mzi,Ixcatl√°n Mazatec
 mzj,Manya
 mzk,Nigeria Mambila
-mzl,Mazatl·n Mixe
+mzl,Mazatl√°n Mixe
 mzm,Mumuye
 mzn,Mazanderani
 mzo,Matipuhy
 mzp,Movima
 mzq,Mori Atas
-mzr,Mar˙bo
+mzr,Mar√∫bo
 mzs,Macanese
 mzt,Mintil
 mzu,Inapang
@@ -5143,7 +5143,7 @@ mzx,Mawayana
 mzy,Mozambican Sign Language
 mzz,Maiadomu
 naa,Namla
-nab,Southern Nambiku·ra
+nab,Southern Nambiku√°ra
 nac,Narak
 nad,Nijadali
 nae,Naka'ela
@@ -5200,7 +5200,7 @@ nch,Central Huasteca Nahuatl
 nci,Classical Nahuatl
 ncj,Northern Puebla Nahuatl
 nck,Nakara
-ncl,Michoac·n Nahuatl
+ncl,Michoac√°n Nahuatl
 ncm,Nambo
 ncn,Nauna
 nco,Sibe
@@ -5238,10 +5238,10 @@ ndx,Nduga
 ndy,Lutos
 ndz,Ndogo
 nea,Eastern Ngad'a
-neb,Toura (CÙte d'Ivoire)
+neb,Toura (C√¥te d'Ivoire)
 nec,Nedebang
 ned,Nde-Gbite
-nee,NÍlÍmwa-Nixumwak
+nee,N√™l√™mwa-Nixumwak
 nef,Nefamese
 neg,Negidal
 neh,Nyenkha
@@ -5250,7 +5250,7 @@ nej,Neko
 nek,Neku
 nem,Nemi
 nen,Nengone
-neo,N·-Meo
+neo,N√°-Meo
 nep,Nepali (macrolanguage)
 neq,North Central Mixe
 ner,Yahadian
@@ -5295,12 +5295,12 @@ ngz,Ngungwel
 nha,Nhanda
 nhb,Beng
 nhc,Tabasco Nahuatl
-nhd,Chirip·
+nhd,Chirip√°
 nhe,Eastern Huasteca Nahuatl
 nhf,Nhuwala
 nhg,Tetelcingo Nahuatl
 nhh,Nahari
-nhi,Zacatl·n-Ahuacatl·n-Tepetzintla Nahuatl
+nhi,Zacatl√°n-Ahuacatl√°n-Tepetzintla Nahuatl
 nhk,Isthmus-Cosoleacaque Nahuatl
 nhm,Morelos Nahuatl
 nhn,Central Nahuatl
@@ -5314,7 +5314,7 @@ nhv,Temascaltepec Nahuatl
 nhw,Western Huasteca Nahuatl
 nhx,Isthmus-Mecayapan Nahuatl
 nhy,Northern Oaxaca Nahuatl
-nhz,Santa MarÌa La Alta Nahuatl
+nhz,Santa Mar√≠a La Alta Nahuatl
 nia,Nias
 nib,Nakame
 nid,Ngandi
@@ -5396,7 +5396,7 @@ nlv,Orizaba Nahuatl
 nlw,Walangama
 nlx,Nahali
 nly,Nyamal
-nlz,Nalˆgo
+nlz,Nal√∂go
 nma,Maram Naga
 nmb,Big Nambas
 nmc,Ngam
@@ -5410,7 +5410,7 @@ nmj,Ngombe (Central African Republic)
 nmk,Namakura
 nml,Ndemli
 nmm,Manangba
-nmn,!XÛı
+nmn,!X√≥√µ
 nmo,Moyon Naga
 nmp,Nimanbur
 nmq,Nambya
@@ -5450,7 +5450,7 @@ nnx,Ngong
 nny,Nyangga
 nnz,Nda'nda'
 noa,Woun Meu
-nob,Norwegian BokmÂl
+nob,Norwegian Bokm√•l
 noc,Nuk
 nod,Northern Thai
 noe,Nimadi
@@ -5461,7 +5461,7 @@ noi,Noiri
 noj,Nonuya
 nok,Nooksack
 nol,Nomlaki
-nom,Nocam·n
+nom,Nocam√°n
 non,Old Norse
 nop,Numanggang
 noq,Ngongo
@@ -5541,7 +5541,7 @@ nto,Ntomba
 ntp,Northern Tepehuan
 ntr,Delo
 nts,Natagaimas
-ntu,Nat¸gu
+ntu,Nat√ºgu
 ntw,Nottoway
 ntx,Tangkhul Naga (Myanmar)
 nty,Mantsi
@@ -5559,7 +5559,7 @@ nuk,Nuu-chah-nulth
 nul,Nusa Laut
 num,Niuafo'ou
 nun,Anong
-nuo,NguÙn
+nuo,Ngu√¥n
 nup,Nupe-Nupe-Tako
 nuq,Nukumanu
 nur,Nukuria
@@ -5636,7 +5636,7 @@ oaa,Orok
 oac,Oroch
 oar,Old Aramaic (up to 700 BCE)
 oav,Old Avar
-obi,ObispeÒo
+obi,Obispe√±o
 obk,Southern Bontok
 obl,Oblo
 obm,Moabite
@@ -5734,7 +5734,7 @@ onw,Old Nubian
 onx,Onin Based Pidgin
 ood,Tohono O'odham
 oog,Ong
-oon,÷nge
+oon,√ñnge
 oor,Oorlams
 oos,Old Ossetic
 opa,Okpamheri
@@ -5742,10 +5742,10 @@ opk,Kopkaka
 opm,Oksapmin
 opo,Opao
 opt,Opata
-opy,OfayÈ
+opy,Ofay√©
 ora,Oroha
 orc,Orma
-ore,OrejÛn
+ore,Orej√≥n
 org,Oring
 orh,Oroqen
 ori,Oriya (macrolanguage)
@@ -5779,9 +5779,9 @@ otk,Old Turkish
 otl,Tilapa Otomi
 otm,Eastern Highland Otomi
 otn,Tenango Otomi
-otq,QuerÈtaro Otomi
+otq,Quer√©taro Otomi
 otr,Otoro
-ots,Estado de MÈxico Otomi
+ots,Estado de M√©xico Otomi
 ott,Temoaya Otomi
 otu,Otuke
 otw,Ottawa
@@ -5801,15 +5801,15 @@ oyd,Oyda
 oym,Wayampi
 oyy,Oya'oya
 ozm,Koonzime
-pab,ParecÌs
+pab,Parec√≠s
 pac,Pacoh
-pad,PaumarÌ
+pad,Paumar√≠
 pae,Pagibete
-paf,Paranaw·t
+paf,Paranaw√°t
 pag,Pangasinan
 pah,Tenharim
 pai,Pe
-pak,Parakan„
+pak,Parakan√£
 pal,Pahlavi
 pam,Pampanga
 pan,Panjabi
@@ -5820,17 +5820,17 @@ par,Panamint
 pas,Papasena
 pat,Papitalai
 pau,Palauan
-pav,Paka·snovos
+pav,Paka√°snovos
 paw,Pawnee
-pax,PankararÈ
+pax,Pankarar√©
 pay,Pech
-paz,Pankarar˙
-pbb,P·ez
+paz,Pankarar√∫
+pbb,P√°ez
 pbc,Patamona
 pbe,Mezontla Popoloca
 pbf,Coyotepec Popoloca
 pbg,Paraujano
-pbh,E'Òapa Woromaipu
+pbh,E'√±apa Woromaipu
 pbi,Parkwa
 pbl,Mak (Nigeria)
 pbn,Kpasam
@@ -5842,7 +5842,7 @@ pbt,Southern Pashto
 pbu,Northern Pashto
 pbv,Pnar
 pby,Pyu
-pca,Santa InÈs Ahuatempan Popoloca
+pca,Santa In√©s Ahuatempan Popoloca
 pcb,Pear
 pcc,Bouyei
 pcd,Picard
@@ -5881,11 +5881,11 @@ peo,Old Persian (ca. 600-400 B.C.)
 pep,Kunja
 peq,Southern Pomo
 pes,Iranian Persian
-pev,PÈmono
+pev,P√©mono
 pex,Petats
 pey,Petjo
 pez,Eastern Penan
-pfa,P··fang
+pfa,P√°√°fang
 pfe,Peere
 pfl,Pfaelzisch
 pga,Sudanese Creole Arabic
@@ -5942,7 +5942,7 @@ pkc,Paekche
 pkg,Pak-Tong
 pkh,Pankhu
 pkn,Pakanha
-pko,Pˆkoot
+pko,P√∂koot
 pkp,Pukapuka
 pkr,Attapady Kurumba
 pks,Pakistan Sign Language
@@ -5953,7 +5953,7 @@ plb,Polonombauk
 plc,Central Palawano
 pld,Polari
 ple,Palu'e
-plg,Pilag·
+plg,Pilag√°
 plh,Paulohi
 pli,Pali
 plj,Polci
@@ -5966,7 +5966,7 @@ plq,Palaic
 plr,Palaka Senoufo
 pls,San Marcos Tlalcoyalco Popoloca
 plt,Plateau Malagasy
-plu,Palik˙r
+plu,Palik√∫r
 plv,Southwest Palawano
 plw,Brooke's Point Palawano
 ply,Bolyu
@@ -6022,15 +6022,15 @@ poc,Poqomam
 pod,Ponares
 poe,San Juan Atzingo Popoloca
 pof,Poke
-pog,Potigu·ra
+pog,Potigu√°ra
 poh,Poqomchi'
 poi,Highland Popoluca
-pok,Pokang·
+pok,Pokang√°
 pol,Polish
 pom,Southeastern Pomo
 pon,Pohnpeian
 poo,Central Pomo
-pop,Pwapw‚
+pop,Pwapw√¢
 poq,Texistepec Popoluca
 por,Portuguese
 pos,Sayula Popoluca
@@ -6049,7 +6049,7 @@ ppn,Papapana
 ppo,Folopa
 ppp,Pelende
 ppq,Pei
-pps,San LuÌs Temalacayuca Popoloca
+pps,San Lu√≠s Temalacayuca Popoloca
 ppt,Pare
 ppu,Papora
 pqa,Pa'a
@@ -6061,14 +6061,14 @@ pre,Principense
 prf,Paranan
 prg,Prussian
 prh,Porohanon
-pri,PaicÓ
+pri,Paic√Æ
 prk,Parauk
 prl,Peruvian Sign Language
 prm,Kibiri
 prn,Prasuni
-pro,Old ProvenÁal (to 1500)
+pro,Old Proven√ßal (to 1500)
 prp,Parsi
-prq,AshÈninka PerenÈ
+prq,Ash√©ninka Peren√©
 prr,Puri
 prs,Dari
 prt,Phai
@@ -6097,10 +6097,10 @@ psu,Sauraseni Pr?krit
 psw,Port Sandwich
 psy,Piscataway
 pta,Pai Tavytera
-pth,PataxÛ H„-Ha-H„e
+pth,Patax√≥ H√£-Ha-H√£e
 pti,Pintiini
 ptn,Patani
-pto,Zo'È
+pto,Zo'√©
 ptp,Patep
 ptq,Pattapu
 ptr,Piamatsina
@@ -6123,13 +6123,13 @@ pum,Puma
 puo,Puoc
 pup,Pulabu
 puq,Puquina
-pur,Purubor·
+pur,Purubor√°
 pus,Pushto
 put,Putoh
 puu,Punu
 puw,Puluwatese
 pux,Puare
-puy,PurisimeÒo
+puy,Purisime√±o
 pwa,Pawaia
 pwb,Panawa
 pwg,Gapapaiwa
@@ -6142,16 +6142,16 @@ pww,Pwo Northern Karen
 pxm,Quetzaltepec Mixe
 pye,Pye Krumen
 pym,Fyam
-pyn,Poyan·wa
+pyn,Poyan√°wa
 pys,Paraguayan Sign Language
 pyu,Puyuma
 pyx,Pyu (Myanmar)
 pyy,Pyen
 pzn,Para Naga
 qua,Quapaw
-qub,Huallaga Hu·nuco Quechua
+qub,Huallaga Hu√°nuco Quechua
 quc,K'iche'
-qud,CalderÛn Highland Quichua
+qud,Calder√≥n Highland Quichua
 que,Quechua
 quf,Lambayeque Quechua
 qug,Chimborazo Highland Quichua
@@ -6172,16 +6172,16 @@ quy,Ayacucho Quechua
 quz,Cusco Quechua
 qva,Ambo-Pasco Quechua
 qvc,Cajamarca Quechua
-qve,Eastern ApurÌmac Quechua
-qvh,HuamalÌes-Dos de Mayo Hu·nuco Quechua
+qve,Eastern Apur√≠mac Quechua
+qvh,Huamal√≠es-Dos de Mayo Hu√°nuco Quechua
 qvi,Imbabura Highland Quichua
 qvj,Loja Highland Quichua
 qvl,Cajatambo North Lima Quechua
 qvm,Margos-Yarowilca-Lauricocha Quechua
-qvn,North JunÌn Quechua
+qvn,North Jun√≠n Quechua
 qvo,Napo Lowland Quechua
 qvp,Pacaraos Quechua
-qvs,San MartÌn Quechua
+qvs,San Mart√≠n Quechua
 qvw,Huaylla Wanca Quechua
 qvy,Queyu
 qvz,Northern Pastaza Quichua
@@ -6191,18 +6191,18 @@ qwh,Huaylas Ancash Quechua
 qwm,Kuman (Russia)
 qws,Sihuas Ancash Quechua
 qwt,Kwalhioqua-Tlatskanai
-qxa,Chiqui·n Ancash Quechua
+qxa,Chiqui√°n Ancash Quechua
 qxc,Chincha Quechua
-qxh,Panao Hu·nuco Quechua
+qxh,Panao Hu√°nuco Quechua
 qxl,Salasaca Highland Quichua
 qxn,Northern Conchucos Ancash Quechua
 qxo,Southern Conchucos Ancash Quechua
 qxp,Puno Quechua
 qxq,Qashqa'i
-qxr,CaÒar Highland Quichua
+qxr,Ca√±ar Highland Quichua
 qxs,Southern Qiang
 qxt,Santa Ana de Tusi Pasco Quechua
-qxu,Arequipa-La UniÛn Quechua
+qxu,Arequipa-La Uni√≥n Quechua
 qxw,Jauja Wanca Quechua
 qya,Quenya
 qyp,Quiripi
@@ -6235,7 +6235,7 @@ rbb,Rumai Palaung
 rbk,Northern Bontok
 rbl,Miraya Bikol
 rbp,Barababaraba
-rcf,RÈunion Creole French
+rcf,R√©union Creole French
 rdb,Rudbari
 rea,Rerau
 reb,Rembong
@@ -6254,7 +6254,7 @@ rga,Roria
 rge,Romano-Greek
 rgk,Rangkas
 rgn,Romagnol
-rgr,ResÌgaro
+rgr,Res√≠garo
 rgs,Southern Roglai
 rgu,Ringgou
 rhg,Rohingya
@@ -6293,7 +6293,7 @@ rmm,Roma
 rmn,Balkan Romani
 rmo,Sinte Romani
 rmp,Rempi
-rmq,CalÛ
+rmq,Cal√≥
 rms,Romanian Sign Language
 rmt,Domari
 rmu,Tavringer Romani
@@ -6368,7 +6368,7 @@ saa,Saba
 sab,Buglere
 sac,Meskwaki
 sad,Sandawe
-sae,SabanÍ
+sae,Saban√™
 saf,Safaliba
 sag,Sango
 sah,Yakut
@@ -6401,7 +6401,7 @@ sbk,Safwa
 sbl,Botolan Sambal
 sbm,Sagala
 sbn,Sindhi Bhil
-sbo,Sab¸m
+sbo,Sab√ºm
 sbp,Sangu (Tanzania)
 sbq,Sileibi
 sbr,Sembakung Murut
@@ -6462,10 +6462,10 @@ sei,Seri
 sej,Sene
 sek,Sekani
 sel,Selkup
-sen,NanerigÈ SÈnoufo
+sen,Nanerig√© S√©noufo
 seo,Suarmin
-sep,SÏcÏtÈ SÈnoufo
-seq,Senara SÈnoufo
+sep,S√¨c√¨t√© S√©noufo
+seq,Senara S√©noufo
 ser,Serrano
 ses,Koyraboro Senni Songhai
 set,Sentani
@@ -6569,7 +6569,7 @@ skb,Saek
 skc,Ma Manda
 skd,Southern Sierra Miwok
 ske,Seke (Vanuatu)
-skf,Sakirabi·
+skf,Sakirabi√°
 skg,Sakalava Malagasy
 skh,Sikule
 ski,Sika
@@ -6589,14 +6589,14 @@ skw,Skepi Creole Dutch
 skx,Seko Padang
 sky,Sikaiana
 skz,Sekar
-slc,S·liba
+slc,S√°liba
 sld,Sissala
 sle,Sholaga
 slf,Swiss-Italian Sign Language
 slg,Selungai Murut
 slh,Southern Puget Sound Salish
 sli,Lower Silesian
-slj,Salum·
+slj,Salum√°
 slk,Slovak
 sll,Salt-Yui
 slm,Pangutaran Sama
@@ -6688,7 +6688,7 @@ soy,Miyobe
 soz,Temi
 spa,Spanish
 spb,Sepa (Indonesia)
-spc,SapÈ
+spc,Sap√©
 spd,Saep
 spe,Sepa (Papua New Guinea)
 spg,Sian
@@ -6696,7 +6696,7 @@ spi,Saponi
 spk,Sengo
 spl,Selepet
 spm,Akukem
-spn,Sanapan·
+spn,Sanapan√°
 spo,Spokane
 spp,Supyire Senoufo
 spq,Loreto-Ucayali Spanish
@@ -6734,11 +6734,11 @@ srm,Saramaccan
 srn,Sranan Tongo
 sro,Campidanese Sardinian
 srp,Serbian
-srq,SirionÛ
+srq,Sirion√≥
 srr,Serer
 srs,Sarsi
 srt,Sauri
-sru,SuruÌ
+sru,Suru√≠
 srv,Southern Sorsoganon
 srw,Serua
 srx,Sirmauri
@@ -6761,7 +6761,7 @@ sso,Sissano
 ssp,Spanish Sign Language
 ssq,So'a
 ssr,Swiss-French Sign Language
-sss,SÙ
+sss,S√¥
 sst,Sinasina
 ssu,Susuami
 ssv,Shark Bay
@@ -6808,7 +6808,7 @@ sut,Subtiaba
 suv,Puroik
 suw,Sumbwa
 sux,Sumerian
-suy,Suy·
+suy,Suy√°
 suz,Sunwar
 sva,Svan
 svb,Ulau-Suain
@@ -6841,7 +6841,7 @@ swt,Sawila
 swu,Suwawa
 swv,Shekhawati
 sww,Sowa
-swx,Suruah·
+swx,Suruah√°
 swy,Sarua
 sxb,Suba
 sxc,Sicanian
@@ -6885,7 +6885,7 @@ tab,Tabassaran
 tac,Lowland Tarahumara
 tad,Tause
 tae,Tariana
-taf,TapirapÈ
+taf,Tapirap√©
 tag,Tagoi
 tah,Tahitian
 taj,Eastern Tamang
@@ -6905,7 +6905,7 @@ taw,Tai
 tax,Tamki
 tay,Atayal
 taz,Tocho
-tba,Aikan„
+tba,Aikan√£
 tbb,Tapeba
 tbc,Takia
 tbd,Kaki Ae
@@ -6938,7 +6938,7 @@ tce,Southern Tutchone
 tcf,Malinaltepec Me'phaa
 tcg,Tamagario
 tch,Turks And Caicos Creole English
-tci,W·ra
+tci,W√°ra
 tck,Tchitchege
 tcl,Taman (Myanmar)
 tcm,Tanahmerah
@@ -6949,14 +6949,14 @@ tcq,Kaiy
 tcs,Torres Strait Creole
 tct,T'en
 tcu,Southeastern Tarahumara
-tcw,Tecpatl·n Totonac
+tcw,Tecpatl√°n Totonac
 tcx,Toda
 tcy,Tulu
 tcz,Thado Chin
 tda,Tagdal
 tdb,Panchpargania
-tdc,Ember·-TadÛ
-tdd,Tai N¸a
+tdc,Ember√°-Tad√≥
+tdd,Tai N√ºa
 tde,Tiranige Diga Dogon
 tdf,Talieng
 tdg,Western Tamang
@@ -7064,7 +7064,7 @@ tim,Timbe
 tin,Tindi
 tio,Teop
 tip,Trimuris
-tiq,TiÈfo
+tiq,Ti√©fo
 tir,Tigrinya
 tis,Masadiit Itneg
 tit,Tinigua
@@ -7084,11 +7084,11 @@ tjo,Temacine Tamazight
 tjs,Southern Tujia
 tju,Tjurruru
 tjw,Djabwurrung
-tka,Truk·
+tka,Truk√°
 tkb,Buksa
 tkd,Tukudede
 tke,Takwane
-tkf,TukumanfÈd
+tkf,Tukumanf√©d
 tkg,Tesaka Malagasy
 tkl,Tokelau
 tkm,Takelma
@@ -7117,7 +7117,7 @@ tll,Tetela
 tlm,Tolomako
 tln,Talondo'
 tlo,Talodi
-tlp,Filomena Mata-Coahuitl·n Totonac
+tlp,Filomena Mata-Coahuitl√°n Totonac
 tlq,Tai Loi
 tlr,Talise
 tls,Tambotalo
@@ -7130,9 +7130,9 @@ tma,Tama (Chad)
 tmb,Katbol
 tmc,Tumak
 tmd,Haruai
-tme,TremembÈ
+tme,Trememb√©
 tmf,Toba-Maskoy
-tmg,TernateÒo
+tmg,Ternate√±o
 tmh,Tamashek
 tmi,Tutuba
 tmj,Samarokena
@@ -7141,7 +7141,7 @@ tml,Tamnim Citak
 tmm,Tai Thanh
 tmn,Taman (Indonesia)
 tmo,Temoq
-tmp,Tai MËne
+tmp,Tai M√®ne
 tmq,Tumleo
 tmr,Jewish Babylonian Aramaic (ca. 200-1200 CE)
 tms,Tima
@@ -7153,7 +7153,7 @@ tmy,Tami
 tmz,Tamanaku
 tna,Tacana
 tnb,Western Tunebo
-tnc,Tanimuca-Retuar„
+tnc,Tanimuca-Retuar√£
 tnd,Angosturas Tunebo
 tne,Tinoc Kallahan
 tng,Tobanga
@@ -7166,7 +7166,7 @@ tnn,North Tanna
 tno,Toromono
 tnp,Whitesands
 tnq,Taino
-tnr,MÈnik
+tnr,M√©nik
 tns,Tenis
 tnt,Tontemboan
 tnu,Tay Khang
@@ -7187,7 +7187,7 @@ toj,Tojolabal
 tol,Tolowa
 tom,Tombulu
 ton,Tonga (Tonga Islands)
-too,Xicotepec De Ju·rez Totonac
+too,Xicotepec De Ju√°rez Totonac
 top,Papantla Totonac
 toq,Toposa
 tor,Togbo-Vara Banda
@@ -7199,28 +7199,28 @@ tox,Tobian
 toy,Topoiyo
 toz,To
 tpa,Taupota
-tpc,Azoy˙ Me'phaa
+tpc,Azoy√∫ Me'phaa
 tpe,Tippera
 tpf,Tarpia
 tpg,Kula
 tpi,Tok Pisin
-tpj,TapietÈ
+tpj,Tapiet√©
 tpk,Tupinikin
 tpl,Tlacoapa Me'phaa
 tpm,Tampulma
-tpn,Tupinamb·
+tpn,Tupinamb√°
 tpo,Tai Pao
 tpp,Pisaflores Tepehua
 tpq,Tukpa
-tpr,TuparÌ
+tpr,Tupar√≠
 tpt,Tlachichilco Tepehua
 tpu,Tampuan
 tpv,Tanapag
-tpw,TupÌ
+tpw,Tup√≠
 tpx,Acatepec Me'phaa
 tpy,Trumai
 tpz,Tinputz
-tqb,TembÈ
+tqb,Temb√©
 tql,Lehali
 tqm,Turumsa
 tqn,Tenino
@@ -7237,16 +7237,16 @@ trc,Copala Triqui
 trd,Turi
 tre,East Tarangan
 trf,Trinidadian Creole English
-trg,Lish·n Did·n
+trg,Lish√°n Did√°n
 trh,Turaka
-tri,TriÛ
+tri,Tri√≥
 trj,Toram
 trl,Traveller Scottish
 trm,Tregami
 trn,Trinitario
 tro,Tarao Naga
 trp,Kok Borok
-trq,San MartÌn Itunyoso Triqui
+trq,San Mart√≠n Itunyoso Triqui
 trr,Taushiro
 trs,Chicahuaxtla Triqui
 trt,Tunggare
@@ -7255,7 +7255,7 @@ trv,Taroko
 trw,Torwali
 trx,Tringgus-Sembaan Bidayuh
 try,Turung
-trz,Tor·
+trz,Tor√°
 tsa,Tsaangi
 tsb,Tsamai
 tsc,Tswa
@@ -7267,7 +7267,7 @@ tsh,Tsuvan
 tsi,Tsimshian
 tsj,Tshangla
 tsk,Tseku
-tsl,Ts'¸n-Lao
+tsl,Ts'√ºn-Lao
 tsm,Turkish Sign Language
 tsn,Tswana
 tso,Tsonga
@@ -7308,9 +7308,9 @@ ttw,Long Wat
 tty,Sikaritai
 ttz,Tsum
 tua,Wiarumus
-tub,T¸batulabal
+tub,T√ºbatulabal
 tuc,Mutu
-tud,Tux·
+tud,Tux√°
 tue,Tuyuca
 tuf,Central Tunebo
 tug,Tunia
@@ -7327,7 +7327,7 @@ tur,Turkish
 tus,Tuscarora
 tuu,Tututni
 tuv,Turkana
-tux,Tuxin·wa
+tux,Tuxin√°wa
 tuy,Tugen
 tuz,Turka
 tva,Vaghua
@@ -7350,7 +7350,7 @@ twd,Twents
 twe,Tewa (Indonesia)
 twf,Northern Tiwa
 twg,Tereweng
-twh,Tai DÛn
+twh,Tai D√≥n
 twi,Twi
 twl,Tawara
 twm,Tawang Monpa
@@ -7359,7 +7359,7 @@ two,Tswapong
 twp,Ere
 twq,Tasawaq
 twr,Southwestern Tarahumara
-twt,Turiw·ra
+twt,Turiw√°ra
 twu,Termanu
 tww,Tuwari
 twx,Tewe
@@ -7378,7 +7378,7 @@ txq,Tii
 txr,Tartessian
 txs,Tonsea
 txt,Citak
-txu,KayapÛ
+txu,Kayap√≥
 txx,Tatana
 txy,Tanosy Malagasy
 tya,Tauya
@@ -7390,12 +7390,12 @@ tyl,Thu Lao
 tyn,Kombai
 typ,Thaypan
 tyr,Tai Daeng
-tys,T‡y Sa Pa
-tyt,T‡y Tac
+tys,T√†y Sa Pa
+tyt,T√†y Tac
 tyu,Kua
 tyv,Tuvinian
 tyx,Teke-Tyee
-tyz,T‡y
+tyz,T√†y
 tza,Tanzanian Sign Language
 tzh,Tzeltal
 tzj,Tz'utujil
@@ -7404,7 +7404,7 @@ tzm,Central Atlas Tamazight
 tzn,Tugun
 tzo,Tzotzil
 tzx,Tabriak
-uam,UamuÈ
+uam,Uamu√©
 uan,Kuan
 uar,Tairuma
 uba,Ubang
@@ -7442,7 +7442,7 @@ ukl,Ukrainian Sign Language
 ukp,Ukpe-Bayobiri
 ukq,Ukwa
 ukr,Ukrainian
-uks,Urub˙-Kaapor Sign Language
+uks,Urub√∫-Kaapor Sign Language
 uku,Ukue
 ukw,Ukwuani-Aboh-Ndoni
 uky,Kuuk-Yak
@@ -7466,7 +7466,7 @@ umg,Umbuygamu
 umi,Ukit
 umm,Umon
 umn,Makyan Naga
-umo,UmotÌna
+umo,Umot√≠na
 ump,Umpila
 umr,Umbugarla
 ums,Pendau
@@ -7475,7 +7475,7 @@ una,North Watut
 und,Undetermined
 une,Uneme
 ung,Ngarinyin
-unk,EnawenÈ-NawÈ
+unk,Enawen√©-Naw√©
 unm,Unami
 unn,Kurnai
 unr,Mundari
@@ -7486,7 +7486,7 @@ uok,Uokha
 upi,Umeda
 upv,Uripiv-Wala-Rano-Atchin
 ura,Urarina
-urb,Urub˙-Kaapor
+urb,Urub√∫-Kaapor
 urc,Urningangg
 urd,Urdu
 ure,Uru
@@ -7555,7 +7555,7 @@ ved,Veddah
 vel,Veluws
 vem,Vemgo-Mabas
 ven,Venda
-veo,VentureÒo
+veo,Venture√±o
 vep,Veps
 ver,Mom Jango
 vgr,Vaghri
@@ -7587,7 +7587,7 @@ vmb,Barbaram
 vmc,Juxtlahuaca Mixtec
 vmd,Mudu Koraga
 vme,East Masela
-vmf,Mainfr‰nkisch
+vmf,Mainfr√§nkisch
 vmg,Lungalunga
 vmh,Maraghei
 vmi,Miwa
@@ -7604,15 +7604,15 @@ vmv,Valley Maidu
 vmw,Makhuwa
 vmx,Tamazola Mixtec
 vmy,Ayautla Mazatec
-vmz,Mazatl·n Mazatec
+vmz,Mazatl√°n Mazatec
 vnk,Vano
 vnm,Vinmavis
 vnp,Vunapu
-vol,Volap¸k
+vol,Volap√ºk
 vor,Voro
 vot,Votic
 vra,Vera'a
-vro,Vıro
+vro,V√µro
 vrs,Varisi
 vrt,Burmbar
 vsi,Moldova Sign Language
@@ -7628,7 +7628,7 @@ wab,Wab
 wac,Wasco-Wishram
 wad,Wandamen
 wae,Walser
-waf,Wakon·
+waf,Wakon√°
 wag,Wa'ema
 wah,Watubela
 wai,Wares
@@ -7642,7 +7642,7 @@ waq,Wageman
 war,Waray (Philippines)
 was,Washo
 wat,Kaninuwa
-wau,Waur·
+wau,Waur√°
 wav,Waka
 waw,Waiwai
 wax,Watam
@@ -7664,7 +7664,7 @@ wbr,Wagdi
 wbt,Wanman
 wbv,Wajarri
 wbw,Woi
-wca,Yanom·mi
+wca,Yanom√°mi
 wci,Waci Gbe
 wdd,Wandji
 wdg,Wadaginam
@@ -7673,7 +7673,7 @@ wdk,Wadikali
 wdu,Wadjigu
 wdy,Wadjabangayi
 wea,Wewaw
-wec,WË Western
+wec,W√® Western
 wed,Wedau
 weg,Wergaia
 weh,Weh
@@ -7710,7 +7710,7 @@ wik,Wikalkan
 wil,Wilawila
 wim,Wik-Mungkan
 win,Ho-Chunk
-wir,WirafÈd
+wir,Wiraf√©d
 wiu,Wiru
 wiv,Vitu
 wiy,Wiyot
@@ -7736,14 +7736,14 @@ wlo,Wolio
 wlr,Wailapa
 wls,Wallisian
 wlu,Wuliwuli
-wlv,WichÌ LhamtÈs Vejoz
+wlv,Wich√≠ Lhamt√©s Vejoz
 wlw,Walak
 wlx,Wali (Ghana)
 wly,Waling
 wma,Mawa (Nigeria)
 wmb,Wambaya
 wmc,Wamas
-wmd,MamaindÈ
+wmd,Mamaind√©
 wme,Wambule
 wmh,Waima'a
 wmi,Wamin
@@ -7769,7 +7769,7 @@ wnu,Usan
 wnw,Wintu
 wny,Wanyi
 woa,Tyaraity
-wob,WË Northern
+wob,W√® Northern
 woc,Wogeo
 wod,Wolani
 woe,Woleaian
@@ -7843,7 +7843,7 @@ wya,Wyandot
 wyb,Wangaaybuwan-Ngiyambaa
 wyi,Woiwurrung
 wym,Wymysorys
-wyr,WayorÛ
+wyr,Wayor√≥
 wyy,Western Fijian
 xaa,Andalusian Arabic
 xab,Sambe
@@ -7851,8 +7851,8 @@ xac,Kachari
 xad,Adai
 xae,Aequian
 xag,Aghwan
-xai,KaimbÈ
-xaj,Ararandew·ra
+xai,Kaimb√©
+xaj,Ararandew√°ra
 xal,Kalmyk
 xam,/Xam
 xan,Xamtanga
@@ -7863,7 +7863,7 @@ xar,Karami
 xas,Kamas
 xat,Katawixi
 xau,Kauwera
-xav,Xav·nte
+xav,Xav√°nte
 xaw,Kawaiisu
 xay,Kayan Mahakam
 xba,Kamba (Brazil)
@@ -7879,8 +7879,8 @@ xbn,Kenaboi
 xbo,Bolgarian
 xbp,Bibbulman
 xbr,Kambera
-xbw,Kambiw·
-xbx,KabixÌ
+xbw,Kambiw√°
+xbx,Kabix√≠
 xby,Batyala
 xcb,Cumbric
 xcc,Camunic
@@ -7908,15 +7908,15 @@ xeg,//Xegwi
 xel,Kelo
 xem,Kembayan
 xep,Epi-Olmec
-xer,XerÈnte
+xer,Xer√©nte
 xes,Kesawai
-xet,Xet·
+xet,Xet√°
 xeu,Keoru-Ahia
 xfa,Faliscan
 xga,Galatian
 xgb,Gbin
 xgd,Gudang
-xgf,Gabrielino-FernandeÒo
+xgf,Gabrielino-Fernande√±o
 xgg,Goreng
 xgi,Garingbal
 xgl,Galindan
@@ -7937,8 +7937,8 @@ xib,Iberian
 xii,Xiri
 xil,Illyrian
 xin,Xinca
-xip,Xipin·wa
-xir,Xiri‚na
+xip,Xipin√°wa
+xir,Xiri√¢na
 xis,Kisan
 xiv,Indus Valley Language
 xiy,Xipaya
@@ -7960,7 +7960,7 @@ xkn,Kayan River Kayan
 xko,Kiorr
 xkp,Kabatei
 xkq,Koroni
-xkr,Xakriab·
+xkr,Xakriab√°
 xks,Kumbewaha
 xkt,Kantosi
 xku,Kaamba
@@ -8028,7 +8028,7 @@ xoi,Kominimung
 xok,Xokleng
 xom,Komo (Sudan)
 xon,Konkomba
-xoo,Xukur˙
+xoo,Xukur√∫
 xop,Kopar
 xor,Korubo
 xow,Kowaki
@@ -8040,7 +8040,7 @@ xpi,Pictish
 xpj,Mpalitjanh
 xpk,Kulina Pano
 xpm,Pumpokol
-xpn,Kapinaw·
+xpn,Kapinaw√°
 xpo,Pochutec
 xpp,Puyo-Paekche
 xpq,Mohegan-Pequot
@@ -8051,7 +8051,7 @@ xpu,Punic
 xpy,Puyo
 xqa,Karakhanid
 xqt,Qatabanian
-xra,KrahÙ
+xra,Krah√¥
 xrb,Eastern Karaboro
 xrd,Gundungurra
 xre,Kreye
@@ -8080,7 +8080,7 @@ xsp,Silopi
 xsq,Makhuwa-Saka
 xsr,Sherpa
 xss,Assan
-xsu,Sanum·
+xsu,Sanum√°
 xsv,Sudovian
 xsy,Saisiyat
 xta,Alcozauca Mixtec
@@ -8093,7 +8093,7 @@ xth,Yitha Yitha
 xti,Sinicahua Mixtec
 xtj,San Juan Teita Mixtec
 xtl,Tijaltepec Mixtec
-xtm,Magdalena PeÒasco Mixtec
+xtm,Magdalena Pe√±asco Mixtec
 xtn,Northern Tlaxiaco Mixtec
 xto,Tokharian A
 xtp,San Miguel Piedras Mixtec
@@ -8103,7 +8103,7 @@ xts,Sindihui Mixtec
 xtt,Tacahua Mixtec
 xtu,Cuyamecalco Mixtec
 xtv,Thawa
-xtw,TawandÍ
+xtw,Tawand√™
 xty,Yoloxochitl Mixtec
 xtz,Tasmanian
 xua,Alu Kurumba
@@ -8139,7 +8139,7 @@ xww,Wemba Wemba
 xxb,Boro (Ghana)
 xxk,Ke'o
 xxm,Minkin
-xxr,KoropÛ
+xxr,Korop√≥
 xxt,Tambora
 xya,Yaygir
 xyb,Yandjibara
@@ -8155,9 +8155,9 @@ yaa,Yaminahua
 yab,Yuhup
 yac,Pass Valley Yali
 yad,Yagua
-yae,PumÈ
+yae,Pum√©
 yaf,Yaka (Democratic Republic of Congo)
-yag,Y·mana
+yag,Y√°mana
 yah,Yazgulyam
 yai,Yagnobi
 yaj,Banda-Yangere
@@ -8173,7 +8173,7 @@ yas,Nugunu (Cameroon)
 yat,Yambeta
 yau,Yuwana
 yav,Yangben
-yaw,YawalapitÌ
+yaw,Yawalapit√≠
 yax,Yauma
 yay,Agwagwune
 yaz,Lokaa
@@ -8186,7 +8186,7 @@ ybj,Hasha
 ybk,Bokha
 ybl,Yukuben
 ybm,Yaben
-ybn,Yaba‚na
+ybn,Yaba√¢na
 ybo,Yabong
 ybx,Yawiyo
 yby,Yaweyuha
@@ -8267,7 +8267,7 @@ yln,Langnian Buyang
 ylo,Naluo Yi
 ylr,Yalarnnga
 ylu,Aribwaung
-yly,Ny‚layu
+yly,Ny√¢layu
 ymb,Yambes
 ymc,Southern Muji
 ymd,Muda
@@ -8321,8 +8321,8 @@ ypp,Phupa
 ypz,Phuza
 yra,Yerakai
 yrb,Yareba
-yre,YaourÈ
-yri,YarÌ
+yre,Yaour√©
+yri,Yar√≠
 yrk,Nenets
 yrl,Nhengatu
 yrm,Yirrk-Mel
@@ -8352,7 +8352,7 @@ yud,Judeo-Tripolitanian Arabic
 yue,Yue Chinese
 yuf,Havasupai-Walapai-Yavapai
 yug,Yug
-yui,YurutÌ
+yui,Yurut√≠
 yuj,Karkar-Yuri
 yuk,Yuki
 yul,Yulu
@@ -8388,9 +8388,9 @@ yyu,Yau (Sandaun Province)
 yyz,Ayizi
 yzg,E'ma Buyang
 yzk,Zokhuo
-zaa,Sierra de Ju·rez Zapotec
-zab,San Juan GuelavÌa Zapotec
-zac,Ocotl·n Zapotec
+zaa,Sierra de Ju√°rez Zapotec
+zab,San Juan Guelav√≠a Zapotec
+zac,Ocotl√°n Zapotec
 zad,Cajonos Zapotec
 zae,Yareni Zapotec
 zaf,Ayoquesco Zapotec
@@ -8400,11 +8400,11 @@ zai,Isthmus Zapotec
 zaj,Zaramo
 zak,Zanaki
 zal,Zauzou
-zam,Miahuatl·n Zapotec
+zam,Miahuatl√°n Zapotec
 zao,Ozolotepec Zapotec
 zap,Zapotec
-zaq,Alo·pam Zapotec
-zar,RincÛn Zapotec
+zaq,Alo√°pam Zapotec
+zar,Rinc√≥n Zapotec
 zas,Santo Domingo Albarradas Zapotec
 zat,Tabaa Zapotec
 zau,Zangskari
@@ -8455,7 +8455,7 @@ zkh,Khorezmian
 zkk,Karankawa
 zkn,Kanan
 zko,Kott
-zkp,S„o Paulo Kaing·ng
+zkp,S√£o Paulo Kaing√°ng
 zkr,Zakhring
 zkt,Kitan
 zku,Kaurna
@@ -8496,34 +8496,34 @@ zne,Zande (individual language)
 zng,Mang
 znk,Manangkari
 zns,Mangas
-zoc,Copainal· Zoque
+zoc,Copainal√° Zoque
 zoh,Chimalapa Zoque
 zom,Zou
-zoo,AsunciÛn Mixtepec Zapotec
+zoo,Asunci√≥n Mixtepec Zapotec
 zoq,Tabasco Zoque
-zor,RayÛn Zoque
-zos,Francisco LeÛn Zoque
+zor,Ray√≥n Zoque
+zos,Francisco Le√≥n Zoque
 zpa,Lachiguiri Zapotec
 zpb,Yautepec Zapotec
 zpc,Choapan Zapotec
-zpd,Southeastern Ixtl·n Zapotec
+zpd,Southeastern Ixtl√°n Zapotec
 zpe,Petapa Zapotec
 zpf,San Pedro Quiatoni Zapotec
 zpg,Guevea De Humboldt Zapotec
 zph,Totomachapan Zapotec
-zpi,Santa MarÌa Quiegolani Zapotec
+zpi,Santa Mar√≠a Quiegolani Zapotec
 zpj,Quiavicuzas Zapotec
 zpk,Tlacolulita Zapotec
-zpl,LachixÌo Zapotec
+zpl,Lachix√≠o Zapotec
 zpm,Mixtepec Zapotec
-zpn,Santa InÈs Yatzechi Zapotec
-zpo,Amatl·n Zapotec
+zpn,Santa In√©s Yatzechi Zapotec
+zpo,Amatl√°n Zapotec
 zpp,El Alto Zapotec
 zpq,Zoogocho Zapotec
 zpr,Santiago Xanica Zapotec
-zps,Coatl·n Zapotec
-zpt,San Vicente Coatl·n Zapotec
-zpu,Yal·lag Zapotec
+zps,Coatl√°n Zapotec
+zpt,San Vicente Coatl√°n Zapotec
+zpu,Yal√°lag Zapotec
 zpv,Chichicapan Zapotec
 zpw,Zaniza Zapotec
 zpx,San Baltazar Loxicha Zapotec
@@ -8533,7 +8533,7 @@ zqe,Qiubei Zhuang
 zra,Kara (Korea)
 zrg,Mirgan
 zrn,Zerenkel
-zro,Z·paro
+zro,Z√°paro
 zrp,Zarphatic
 zrs,Mairasi
 zsa,Sarasira
@@ -8543,15 +8543,15 @@ zsm,Standard Malay
 zsr,Southern Rincon Zapotec
 zsu,Sukurum
 zte,Elotepec Zapotec
-ztg,XanaguÌa Zapotec
-ztl,LapaguÌa-Guivini Zapotec
-ztm,San AgustÌn Mixtepec Zapotec
+ztg,Xanagu√≠a Zapotec
+ztl,Lapagu√≠a-Guivini Zapotec
+ztm,San Agust√≠n Mixtepec Zapotec
 ztn,Santa Catarina Albarradas Zapotec
 ztp,Loxicha Zapotec
-ztq,Quioquitani-QuierÌ Zapotec
+ztq,Quioquitani-Quier√≠ Zapotec
 zts,Tilquiapan Zapotec
 ztt,Tejalapan Zapotec
-ztu,G¸il· Zapotec
+ztu,G√ºil√° Zapotec
 ztx,Zaachila Zapotec
 zty,Yatee Zapotec
 zua,Zeem
@@ -8839,7 +8839,7 @@ nia,Nias
 niu,Niuean
 dut,Dutch
 nno,Norwegian Nynorsk
-nob,Norwegian BokmÂl
+nob,Norwegian Bokm√•l
 nog,Nogai
 non,Old Norse
 nor,Norwegian
@@ -8870,7 +8870,7 @@ pli,Pali
 pol,Polish
 pon,Pohnpeian
 por,Portuguese
-pro,Old ProvenÁal (to 1500)
+pro,Old Proven√ßal (to 1500)
 pus,Pushto
 que,Quechua
 raj,Rajasthani
@@ -8965,7 +8965,7 @@ uzb,Uzbek
 vai,Vai
 ven,Venda
 vie,Vietnamese
-vol,Volap¸k
+vol,Volap√ºk
 vot,Votic
 wal,Wolaytta
 war,Waray (Philippines)
@@ -9257,7 +9257,7 @@ nia,Nias
 niu,Niuean
 nld,Dutch
 nno,Norwegian Nynorsk
-nob,Norwegian BokmÂl
+nob,Norwegian Bokm√•l
 nog,Nogai
 non,Old Norse
 nor,Norwegian
@@ -9288,7 +9288,7 @@ pli,Pali
 pol,Polish
 pon,Pohnpeian
 por,Portuguese
-pro,Old ProvenÁal (to 1500)
+pro,Old Proven√ßal (to 1500)
 pus,Pushto
 que,Quechua
 raj,Rajasthani
@@ -9383,7 +9383,7 @@ uzb,Uzbek
 vai,Vai
 ven,Venda
 vie,Vietnamese
-vol,Volap¸k
+vol,Volap√ºk
 vot,Votic
 wal,Wolaytta
 war,Waray (Philippines)
@@ -9523,7 +9523,7 @@ ng,Ndonga
 ne,Nepali (macrolanguage)
 nl,Dutch
 nn,Norwegian Nynorsk
-nb,Norwegian BokmÂl
+nb,Norwegian Bokm√•l
 no,Norwegian
 ny,Nyanja
 oc,Occitan (post 1500)
@@ -9580,7 +9580,7 @@ ur,Urdu
 uz,Uzbek
 ve,Venda
 vi,Vietnamese
-vo,Volap¸k
+vo,Volap√ºk
 wa,Walloon
 wo,Wolof
 xh,Xhosa
