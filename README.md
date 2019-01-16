@@ -1,9 +1,9 @@
 Instructions to Run the code:
 Please find these attachements:
-•	Hive DDL file
-•	Spark wiki_etl.scala file
-•	ISO data
-•	SBT file
+  •	Hive DDL file
+  •	nbs.scala file
+  •	ISO data file
+  •	SBT file
 
 1.	Please run the hive DLL commands 
 2.	Download the ISO data on your Desktop
