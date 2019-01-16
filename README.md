@@ -1,8 +1,8 @@
 Instructions to Run the code:
 Please find these attachements:
   •	Hive DDL file
-  •	nbs.scala file
-  •	ISO data file
+  •	wikiEtl.scala file
+  •	ISO_data file
   •	SBT file
 
 1.	Please run the hive DLL commands 
